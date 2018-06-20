@@ -11,13 +11,13 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/app.ipa</string>
+                    <string>http://www.gzar.cn/app/vegetable/vegetable.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/57.png</string>
+                    <string>https://github.com/josongg/IPATest/raw/master/57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
